@@ -1,6 +1,4 @@
-Sure, here is the README file formatted for GitHub:
 
----
 
 # User Registration, Validation, Viewing, and Deleting using Java and Spring Boot
 
